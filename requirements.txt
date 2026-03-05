@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+seaborn
+opencv-python
+jupyter
+dlib
+imutils
